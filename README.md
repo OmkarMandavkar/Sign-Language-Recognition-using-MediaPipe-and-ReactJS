@@ -35,24 +35,6 @@
 
 - MediaPipe
 
-**NPM Packages:**
-
-- @mediapipe/drawing_utils
-- @mediapipe/hands
-- @mediapipe/tasks-vision
-- @redux-devtools/extension
-- chart.js
-- firebase
-- js-cookie
-- react-chartjs-2
-- react-icons
-- react-redux
-- react-router-dom
-- react-toastify
-- react-webcam
-- redux
-- redux-thunk
-- uuid
 
 ## Team Members
 
@@ -60,9 +42,9 @@
 
 | Name            | Email-id                      |
 | :-------------- | :---------------------------- |
+| Omkar Mandavkar | `omkarmandavkar000@gmail.com` |
 | Shubham More    | `shubhamp1251@gmail.com`      |
 | Sameer Metkar   | `sameermetkar@gmail.com`      |
-| Omkar Mandavkar | `omkarmandavkar000@gmail.com` |
 | Durgesh Kolhe   | `dkolhe985@gmail.com`         |
 
 ## Project Details
@@ -79,9 +61,10 @@
 
 ## Authors
 
+
+- [@omkar-mandavkar](https://github.com/omkarmandavkar/)
 - [@shubham-more](https://github.com/shubhammore1251/)
 - [@sameer-metkar](https://github.com/sameermetkar/)
-- [@omkar-mandavkar](https://github.com/omkarmandavkar/)
 - [@durgesh-kolhe](https://github.com/Durgesh240)
 
 ## Acknowledgements
@@ -93,11 +76,10 @@
 
 ## Screenshots
 
-![Hello Image](./public/screenshots/Hello.jpg)
-
-![Meet Image](./public/screenshots/Meet.jpg)
 
 ![Deaf Image](./public/screenshots/Deaf.jpg)
+
+![Meet Image](./public/screenshots/Meet.jpg)
 
 ![Bye Image](./public/screenshots/Bye.jpg)
 
@@ -109,5 +91,5 @@
 
 For support, contact
 
-- email: shubhamp1251@gmail.com
-- LinkedIn: [Shubham More](https://www.linkedin.com/in/shubham-more1251/)
+- email: omkarmandavkar000@gmail.com
+- LinkedIn: [Omkar Mandavkar](https://www.linkedin.com/in/omkarmandavkar/)

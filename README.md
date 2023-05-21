@@ -8,6 +8,10 @@
 
 - Our Model is trained for 26 alphabets and 16 words of ASL and which are commonly used in general communication.
 
+## WireFrame
+
+![WireFrame](./public/screenshots/wireframe.png)
+
 ## Features
 
 - Real-Time Recognition

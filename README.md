@@ -4,9 +4,9 @@
 
 - Our sign language recognition project involved creating a custom dataset, preprocessing images, training a model, integrating with React, and hosting with Firebase. 
 
-- The result is a real-time sign language recognition application that recognizes a variety of sign language gestures.
+- The result is a real-time sign language recognition application that recognizes various sign language gestures.
 
-- Our Model is trained for 26 alphabets and 16 words of ASL and which are commonly used in general communication.
+- Our Model is trained for 26 alphabets and 16 ASL words, commonly used in general communication.
 
 ## WireFrame
 
@@ -22,7 +22,7 @@
 
 - High Accuracy
 
-- Real Time User Progress Data
+- Real-Time User Progress Data
 
 ## Tech Stack
 
@@ -42,7 +42,7 @@
 
 ## Team Members
 
-- So this project is a group project done in collaboration with the members mentioned below.
+- This project is a group project done in collaboration with the members mentioned below.
 
 | Name            | Email-id                      |
 | :-------------- | :---------------------------- |
@@ -59,9 +59,9 @@
 
 - **Dataset Link:** [Sign_Dataset](https://drive.google.com/drive/folders/1LUUknqqRNHAmIZYrcgo-4n2HrM37uFa3?usp=share_link)
 
-- **Gesture Recogition Documentation:** [Mediapipe](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer)
+- **Gesture Recognition Documentation:** [Mediapipe](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer)
 
-- **The Model Training File is located in root folder**
+- **The Model Training File is located in the root folder**
 
 ## Authors
 
@@ -95,5 +95,5 @@
 
 For support, contact
 
-- email: omkarmandavkar000@gmail.com
+- E-mail: omkarmandavkar000@gmail.com
 - LinkedIn: [Omkar Mandavkar](https://www.linkedin.com/in/omkarmandavkar/)
